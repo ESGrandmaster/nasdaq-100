@@ -1,0 +1,101 @@
+Company,Symbol,Weight
+Apple Inc,AAPL,11.715
+Microsoft,MSFT,10.651
+Amazon,AMZN,7.615
+Tesla,TSLA,6.084
+NVIDIA,NVDA,5.329
+Alphabet,GOOG,7.574
+Adobe,ADBE,2.082
+Netflix,NFLX,1.853
+Costco,COST,1.556
+Cisco Systems,CSCO,1.508
+Comcast,CMCSA,1.493
+Broadcom ,AVGO,1.482
+PepsiCo,PEP,1.441
+PayPal,PYPL,1.417
+QUALCOMM ,QCOM,1.329
+Intel,INTC,1.302
+Advanced Micro Devices,AMD,1.253
+Intuit,INTU,1.163
+Texas Instruments,TXN,1.159
+Moderna,MRNA,0.928
+Honeywell International,HON,0.911
+T Mobile,TMUS,0.886
+Applied Materials,AMAT,0.867
+Starbucks,SBUX,0.843
+Charter Communications,CHTR,0.775
+Intuitive Surgical,ISRG,0.755
+Amgen,AMGN,0.737
+Automatic Data Processing,ADP,0.637
+Analog Devices,ADI,0.632
+Lam Research,LRCX,0.63
+Micron Technology,MU,0.617
+Gilead Sciences,GILD,0.564
+Booking Holdings,BKNG,0.563
+Mondelez International,MDLZ,0.537
+CSX Corporation,CSX,0.51
+Regeneron Pharmaceuticals,REGN,0.437
+JD.com,JD,0.433
+ASML Holding,ASML,0.42
+Fiserv,FISV,0.417
+KLA Corporation,KLAC,0.407
+NXP Semiconductors,NXPI,0.386
+MercadoLibre,MELI,0.385
+Marvell Technology,MRVL,0.382
+Illumina,ILMN,0.373
+Lululemon Athletica,LULU,0.37
+Xilinx,XLNX,0.369
+Autodesk,ADSK,0.365
+Dexcom,DXCM,0.355
+Workday,WDAY,0.342
+Synopsys,SNPS,0.339
+IDEXX Laboratories,IDXX,0.337
+Atlassian Corp,TEAM,0.337
+Exelon,EXC,0.336
+Zoom Video Communications,ZM,0.332
+Cadence Design Systems,CDNS,0.32
+Vertex Pharmaceuticals,VRTX,0.316
+Align Technology,ALGN,0.315
+Keurig Dr Pepper,KDP,0.314
+Marriott,MAR,0.313
+DocuSign,DOCU,0.313
+Microchip Technology,MCHP,0.298
+Activision Blizzard,ATVI,0.297
+Monster Beverage,MNST,0.289
+O Reilly Automotive,ORLY,0.287
+eBay,EBAY,0.286
+Cintas,CTAS,0.284
+Crowdstrike,CRWD,0.282
+Paychex,PAYX,0.28
+Kraft Heinz,KHC,0.268
+Cognizant Technology Solutions,CTSH,0.267
+American Electric Power,AEP,0.265
+Ross Stores,ROST,0.254
+Walgreens Boots Alliance,WBA,0.253
+Baidu,BIDU,0.247
+Verisk Analytics,VRSK,0.237
+Match Group,MTCH,0.235
+Electronic Arts,EA,0.231
+Biogen,BIIB,0.229
+Copart,CPRT,0.224
+Xcel Energy,XEL,0.224
+ANSYS,ANSS,0.223
+Fastenal,FAST,0.222
+NetEase,NTES,0.211
+Okta,OKTA,0.201
+Dollar Tree,DLTR,0.196
+Seagen,SGEN,0.19
+PACCAR,PCAR,0.189
+VeriSign,VRSN,0.175
+CDW Corporation,CDW,0.17
+Pinduoduo,PDD,0.166
+Skyworks Solutions,SWKS,0.163
+Sirius XM Holdings,SIRI,0.161
+Cerner,CERN,0.136
+Splunk,SPLK,0.129
+Incyte,INCY,0.098
+Check Point Software,CHKP,0.096
+Trip.com,TCOM,0.095
+Peloton,PTON,0.078
+Fox Corp,FOX,0.13
+AstraZeneca,AZN,0
